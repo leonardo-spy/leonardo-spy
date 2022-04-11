@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardo-spy&label=Profile%20views&color=0e75b6&style=flat" alt="leonardo-spy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Leodinbr" target="blank"><img src="https://img.shields.io/twitter/follow/leonardo-spy?logo=twitter&style=for-the-badge" alt="leonardo-spy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Leodinbr" target="blank"><img src="https://img.shields.io/twitter/follow/Leodinbr?logo=twitter&style=for-the-badge" alt="leonardo-spy" /></a> </p>
 
 - 🔭 I am currently focusing on improving my **Development Skills**
 
