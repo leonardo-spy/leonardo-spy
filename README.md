@@ -11,9 +11,7 @@
 
 - 👨‍💻 All of my public projects are available at [GitHub](https://github.com/leonardo-spy)
 
-- 📝 Documentation skills [Você Político](https://devreagi.gitbook.io/inicio/)
-
-- 💬 Ask me about **Python, C#**
+- 💬 Ask me about **Python, C#, Selenium, Java**
 
 - 📫 How to reach me **leonardo.spy@hotmail.com**
 
