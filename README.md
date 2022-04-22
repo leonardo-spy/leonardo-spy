@@ -24,8 +24,8 @@
 <a href="https://stackoverflow.com/users/4359335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4359335" height="30" width="40" /></a>
 <a href="https://fb.com/leodin.marques" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leodin.marques" height="30" width="40" /></a>
 <a href="https://instagram.com/leonardo.spy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonardo.spy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc2ebg-5w2osopa7n4mtfltw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc2ebg-5w2osopa7n4mtfltw" height="30" width="40" /></a>
-<a href="https://discord.gg/ΨSaiki KusuoΨ#2812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ΨSaiki KusuoΨ#2812" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC2EBG-5w2osOpa7N4mtflTw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc2ebg-5w2osopa7n4mtfltw" height="30" width="40" /></a>
+<a href="https://discordapp.com/channels/@me/596168199276331019/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ΨSaiki KusuoΨ#2812" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
